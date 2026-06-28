@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Day1.Calculator.Tests/Day1.Calculator.Tests.csproj" />
+  <Project Path="Day1.Calculator/Day1.Calculator.csproj" />
+  <Project Path="Day1.OrderSystem.Tests/Day1.OrderSystem.Tests.csproj" />
+  <Project Path="Day1.OrderSystem/Day1.OrderSystem.csproj" />
+</Solution>
